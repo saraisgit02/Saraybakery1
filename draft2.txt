@@ -1,0 +1,61 @@
+<div class="box">
+                <div class="image">
+                    <img src="citron.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>Tarte au citron meringuée</h3>
+                    <span class="price">Prix : 250da</span>
+                    <a href="#" class="btn">Ajouter au panier</a>
+                </div>
+            </div>
+<div class="box">
+                <div class="image">
+                    <img src="fraise.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>Tarte aux fruits</h3>
+                    <span class="price">Prix : 250da</span>
+                    <a href="#" class="btn">Ajouter au panier</a>
+                </div>
+            </div>
+<div class="box">
+                <div class="image">
+                    <img src="fond.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>Fondant au chocolat</h3>
+                    <span class="price">Prix : 300da</span>
+                    <a href="#" class="btn">Ajouter au panier</a>
+                </div>
+            </div>
+<div class="box">
+                <div class="image">
+                    <img src="paris.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>Paris-Brest </h3>
+                    <span class="price">700da</span>
+                    <a href="#" class="btn">Ajouter au panier</a>
+                
+                </div>
+            </div>
+            <div class="box">
+                <div class="image">
+                    <img src="opera.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>Opéra – Royal Opera</h3>
+                    <span class="price">Prix : 400da</span>
+                    <a href="#" class="btn">Ajouter au panier</a>
+                </div>
+            </div>
+<div class="box">
+                <div class="image">
+                    <img src="brule.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>Crème brûlée</h3>
+                    <span class="price">Prix : 250da</span>
+                    <a href="#" class="btn">Ajouter au panier</a>
+                </div>
+            </div>
