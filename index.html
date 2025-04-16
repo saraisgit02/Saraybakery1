@@ -25,16 +25,12 @@
         <a href="#clients">Témoignages</a>
       </div>
       <!-- using awesome-->
-      <div class="icons">
-        <div id="cart-btn" class="fas fa-shopping-cart"></div>
-       </div>
-
-    </div>
-
+      <div id="cart-btn" class="fas fa-shopping-cart">
+        <span id="cart-count"></span>
+      </div>
+    </div> 
     <!--Content-->
-
-<!--home page welcome -->
-
+<!--home page welcome --> 
  <!--banner-->
       <section class="banner">
         <img src="banner.png" alt="">
@@ -42,7 +38,7 @@
  <!--fin banner -->
 <!-- about us -->
 <div class="landingpage">
-
+    
     <section class="about" id="about">
 
        <h1 class="heading"> <span> A Propos </span> Saray's Bakery </h1>
@@ -276,6 +272,21 @@
       <div class="credit">created by <span> Sarah Bezri </span><br/>bezsarah8@gmail.com</div>
 
   </section>
+  <!-- Custom Notification Popup -->
+<div id="notification" class="notification hidden">
+    <p id="notification-message"></p>
+  </div>
+  <!-- Cart Modal -->
+<div class="cart-modal" id="cart-modal">
+    <div class="cart-modal-content">
+      <span class="close-cart">&times;</span>
+      <h2>Votre Panier</h2>
+      <div class="cart-items-container"></div>
+      <div class="cart-total">Total: <span>0.00</span> DA</div>
+      <button class="checkout-btn">Passer à la caisse</button>
+    </div>
+  </div>  
+  <script src="script.js"></script>
 
   </body>
 </html>
